@@ -6,7 +6,7 @@
   - Python
 
 ## 📫 Contact Me
-If you have any questions or want to get in touch, feel free to email me at: [your.email@example.com](mailto:sanfai.app@gmail.com)
+If you have any questions or want to get in touch, feel free to email me at: [My Email](mailto:sanfai.app@gmail.com)
 
 Or follow me on social media:
 - [Telegram](https://t.me/coder95)
