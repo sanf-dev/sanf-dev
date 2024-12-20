@@ -12,6 +12,23 @@ Or follow me on social media:
 - [Telegram](https://t.me/coder95)
 - [Rubika](https://rubika.ir/coder95)
 
-## 🪩My Web Sites:
+## My Web Sites:
 - [Site-1](https://sanfai.ir)
 - [Site-2](https://sanf.opinf.xyz)
+
+
+```
+php
+function helloWorld ($str){
+  echo $str;
+}
+helloWorld("echo");
+```
+
+```
+python
+def helloWorld (str)
+  print(str)
+
+helloWorld("print")
+```
